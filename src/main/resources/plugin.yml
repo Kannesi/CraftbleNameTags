@@ -1,0 +1,4 @@
+name: CraftbleNameTags
+version: '${project.version}'
+main: me.vlasov.craftblenametags.CraftbleNameTags
+api-version: 1.19
